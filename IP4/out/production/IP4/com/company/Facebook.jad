@@ -1,0 +1,34 @@
+// Decompiled by DJ v3.10.10.93 Copyright 2007 Atanas Neshkov  Date: 9/03/2020 10:59:37 AM
+// Home Page: http://members.fortunecity.com/neshkov/dj.html  http://www.neshkov.com/dj.html - Check often for new version!
+// Decompiler options: packimports(3) 
+// Source File Name:   Facebook.java
+
+package com.company;
+
+
+// Referenced classes of package com.company:
+//            SocialPlatforms
+
+public class Facebook extends SocialPlatforms
+{
+
+    public Facebook()
+    {
+    }
+
+    public void post()
+    {
+    }
+
+    public void read()
+    {
+    }
+
+    public void redirectMessage()
+    {
+    }
+
+    public void feedback()
+    {
+    }
+}
